@@ -3,7 +3,7 @@
 - 🔭 Currently working as a Cloud Data Engineer.
 - 🌱 Currently learning AI and Kafka.
 - ⚡ In my free time, I work on Cloud Projects and share them with the CloudOps community.
-- 👯 I’m looking to collaborate on Open source projects.
+- 👯 I’m looking to collaborate on Cloud Native projects.
 
 
  My social handles 📲📱
