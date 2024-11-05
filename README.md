@@ -23,7 +23,6 @@
 <img src="https://img.shields.io/badge/-GitHub%20Actions-black?style=flat&logo=GitHub%20Actions" alt="GitHub Actions">
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&color=black" alt="Python Logo">
 <img src="https://img.shields.io/badge/-Argo%20CD-black?style=flat&logo=ArgoCD" alt="Argo CD">
-<!-- <img src="https://img.shields.io/badge/-SQL-black?style=flat&logo=SQL&logoColor=white" alt="SQL"> -->
 <img src="https://img.shields.io/badge/-Nginx-269539?style=flat&logo=nginx&logoColor=white" alt="Nginx">
 <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
 <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash">
@@ -40,6 +39,7 @@
 </center>
 
 📁 **Latest Project**
+- [Automated Microservices Deployment on Scalable Kubernetes with Jenkins, ArgoCD, Terraform, Prometheus, and Grafana](https://bughunters.hashnode.dev/automated-microservices-deployment-on-scalable-kubernetes-with-jenkins-argocd-terraform-prometheus-and-grafana)
+- [Provisioning Scalable and Secure Multi-Environment Kubernetes Clusters on AWS Using Terraform and Terragrunt (Keep Your Terraform Code DRY)](https://bughunters.hashnode.dev/provisioning-scalable-and-secure-multi-environment-kubernetes-clusters-on-aws-using-terraform-and-terragrunt-keep-your-terraform-code-dry)
 - [Implementing Robust, Secure, and Highly Available Three-Tier Web Application Architecture on AWS Using Terraform and GitHub Actions](https://bughunters.hashnode.dev/implementing-robust-secure-and-highly-available-three-tier-web-application-architecture-on-aws-using-terraform-and-github-actions)
-
 - [Automated Hosting of Static Website on Cloud Using S3, CloudFront, ACM, and Route53 with Terraform and GitHub Actions](https://bughunters.hashnode.dev/automated-hosting-of-static-website-on-cloud-using-s3-cloudfront-acm-and-route53-with-terraform-and-github-actions)
