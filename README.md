@@ -39,7 +39,7 @@
 </center>
 
 📁 **Latest Project**
-- [Automated Microservices Deployment on Scalable Kubernetes with Jenkins, ArgoCD, Terraform, Prometheus, and Grafana](https://bughunters.hashnode.dev/automated-microservices-deployment-on-scalable-kubernetes-with-jenkins-argocd-terraform-prometheus-and-grafana)
-- [Provisioning Scalable and Secure Multi-Environment Kubernetes Clusters on AWS Using Terraform and Terragrunt (Keep Your Terraform Code DRY)](https://bughunters.hashnode.dev/provisioning-scalable-and-secure-multi-environment-kubernetes-clusters-on-aws-using-terraform-and-terragrunt-keep-your-terraform-code-dry)
-- [Implementing Robust, Secure, and Highly Available Three-Tier Web Application Architecture on AWS Using Terraform and GitHub Actions](https://bughunters.hashnode.dev/implementing-robust-secure-and-highly-available-three-tier-web-application-architecture-on-aws-using-terraform-and-github-actions)
-- [Automated Hosting of Static Website on Cloud Using S3, CloudFront, ACM, and Route53 with Terraform and GitHub Actions](https://bughunters.hashnode.dev/automated-hosting-of-static-website-on-cloud-using-s3-cloudfront-acm-and-route53-with-terraform-and-github-actions)
+1. [Automated Microservices Deployment on Scalable Kubernetes with Jenkins, ArgoCD, Terraform, Prometheus, and Grafana](https://bughunters.hashnode.dev/automated-microservices-deployment-on-scalable-kubernetes-with-jenkins-argocd-terraform-prometheus-and-grafana)
+2. [Provisioning Scalable and Secure Multi-Environment Kubernetes Clusters on AWS Using Terraform and Terragrunt (Keep Your Terraform Code DRY)](https://bughunters.hashnode.dev/provisioning-scalable-and-secure-multi-environment-kubernetes-clusters-on-aws-using-terraform-and-terragrunt-keep-your-terraform-code-dry)
+3. [Implementing Robust, Secure, and Highly Available Three-Tier Web Application Architecture on AWS Using Terraform and GitHub Actions](https://bughunters.hashnode.dev/implementing-robust-secure-and-highly-available-three-tier-web-application-architecture-on-aws-using-terraform-and-github-actions)
+4. [Automated Hosting of Static Website on Cloud Using S3, CloudFront, ACM, and Route53 with Terraform and GitHub Actions](https://bughunters.hashnode.dev/automated-hosting-of-static-website-on-cloud-using-s3-cloudfront-acm-and-route53-with-terraform-and-github-actions)
