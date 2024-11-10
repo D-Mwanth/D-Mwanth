@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Daniel</h1>
 
 - 🔭 Currently working as a Cloud Data Engineer.
-- 🌱 Currently learning AI and Kafka.
+- 🌱 Currently learning Java.
 - ⚡ In my free time, I work on Cloud Projects and share them with the CloudOps community.
 - 👯 I’m looking to collaborate on Cloud Native projects.
 
